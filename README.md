@@ -1,6 +1,6 @@
 # TomatoCrab
 
-A terminal-based Pomodoro timer written in Rust.
+A terminal-based Pomodoro timer written in Rust. This started as a Claude written MVP. Over time as I learn more Rust I plan to improve it more.
 
 ## Features
 
